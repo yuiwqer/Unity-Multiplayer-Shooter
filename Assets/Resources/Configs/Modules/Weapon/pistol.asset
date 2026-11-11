@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3c3aff21cd049e3aa0b0d8ac770798c, type: 3}
+  m_Name: pistol
+  m_EditorClassIdentifier: 
+  moduleName: pistol
+  prefab: {fileID: 5215876875250781820, guid: 591f9a1b8fb069a488d472fcaedafb93, type: 3}
+  handlerTypeName: WeaponHandler
+  fireRate: 5
+  projectilePrefab: {fileID: 3138703079837900764, guid: 4df4262e90bade7418ad4ff3b7977c58, type: 3}
+  projectileConfig: {fileID: 11400000, guid: 2dd047790c49e504393a53398cdf2389, type: 2}
+  magazineSize: 12
+  reloadTime: 1.5
+  shellConfig: {fileID: 11400000, guid: e217fa3f3db03784488962da40cedef7, type: 2}
+  magazineConfig: {fileID: 11400000, guid: 2c5cd3b9b06920845abdf67d24e2a798, type: 2}

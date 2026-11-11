@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c51cfd238244d7ca42b555c2931f8fe, type: 3}
+  m_Name: hud_crosshair
+  m_EditorClassIdentifier: 
+  panelName: hud_crosshair
+  prefab: {fileID: 8929382091312387566, guid: 3fdc2c288f08de14b9431b7f4078d035, type: 3}
+  layer: 300
+  cacheOnClose: 1
+  modal: 0
+  closeOnMaskClick: 1
